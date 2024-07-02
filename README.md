@@ -1,5 +1,5 @@
 # to-do_list
-developed a to-do list application using Python, Tkinter, and SQLite, allowing users to manage tasks by adding, editing, and deleting them.
+Developed a to-do list application using Python, Tkinter, and SQLite, allowing users to manage tasks by adding, editing, and deleting them.
 
 For my project, I developed a simple to-do list application using Python. The application allows users to add new tasks, edit existing tasks, mark tasks as completed, and remove completed tasks. The project leverages Tkinter for the graphical user interface and SQLite for persistent data storage. The focus was on handling user input, basic data manipulation, and event-driven programming.
 
